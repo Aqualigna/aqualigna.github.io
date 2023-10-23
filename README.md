@@ -1,2 +1,3 @@
-# aqualigna.github.io
+# Aqualigna - Personal Homepage
+
 Temporary personal homepage.
